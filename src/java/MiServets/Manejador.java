@@ -2,7 +2,6 @@ package MiServets;
 
 import EntidadDAO.UsuarioDAO;
 import Tokens.CodificarToken;
-import com.google.gson.Gson;
 import entidades.Usuario;
 import java.io.IOException;
 import java.io.PrintWriter;
